@@ -1,3 +1,5 @@
+$ git clone https://github.com/Altynbek312/TrafficDetection
+
 1. First of all download weights of YOLOv3 416X416: https://pjreddie.com/darknet/yolo/
 2. Put .weights file to config folder
 3. Run Start.bat 
