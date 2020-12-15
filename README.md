@@ -9,3 +9,6 @@ By running the main.py from command prompt you can specify some arguments:
 (Do not type " " symbols)
 
 python main.py --input "path to the input file" --output "path to the output folder" --yolo config --confidence "minimum confidence threshold for detection" --threshold "threshold for Non-maxima suppression"
+
+Example of program results:
+![](output/frame-73.png)
